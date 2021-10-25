@@ -1,0 +1,2 @@
+# MIPs
+Menace Improvement Proposals
