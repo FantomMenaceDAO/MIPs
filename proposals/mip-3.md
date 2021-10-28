@@ -41,6 +41,7 @@ What is the scope of the project? What will it require?
 - We'd like to reuse as much as possible, and not build (if we can)
 - Fork this monorepo: https://github.com/nounsDAO/nouns-monorepo
 - contracts for Nouns: https://github.com/nounsDAO/nouns-monorepo/tree/master/packages/nouns-contracts 
+- Compound Governance Alpha: https://github.com/compound-finance/compound-protocol/blob/master/contracts/Governance/GovernorAlpha.sol
 - deploy contract etc.
 
 ### Questions
