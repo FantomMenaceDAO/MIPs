@@ -20,7 +20,7 @@ What is the scope of the project? What will it require?
 - Art for the NFTs
 - Super simple site that allows for DAO members 
 
-## Not in the scope of this proposal
+### Not in the scope of this proposal
 - If we can do these, great
 - Daily Auctions, that can 
 - The idea here is to split up the tasks. Get the NFTs in DAO members hands first, and then daily auctions
