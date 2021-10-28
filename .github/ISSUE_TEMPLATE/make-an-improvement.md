@@ -7,10 +7,10 @@ assignees: ''
 
 ---
 
-# Menace Improvement Proposal (MIP-X)
+# Potential Menace Improvement Proposal (MIP-X)
 
-## Abstract
-What we should do, and how does this solve the problem and improve our DAO
+## tl;dr
+This what we should do, and here's how it solve the problem to improve our DAO
 
 ## Motivation
 A clear and concise description of what the improvement is. What is the pain point, and how does the improvement solve it?
