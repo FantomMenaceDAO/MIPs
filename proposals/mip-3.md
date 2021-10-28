@@ -1,3 +1,5 @@
+# Menace Improvement Proposal (MIP-3)
+
 ## tl;dr
 Give ourselves NFTs as governance tokens to vote (setup NFT DAO)
 
