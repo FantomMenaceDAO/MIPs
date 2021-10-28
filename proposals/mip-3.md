@@ -1,5 +1,5 @@
 ## tl;dr
-Give ourselves NFTs as governance tokens to vote
+Give ourselves NFTs as governance tokens to vote (setup NFT DAO)
 
 ## Motivation
 We should this because...
@@ -7,18 +7,34 @@ We should this because...
 - We need to automate the onboarding process further so we can onboard more folks 
 - so we can vote w/o having to verify whether they belong to the DAO or not
 
+## Context
+
+We would fork NounsDAO (nouns.wtf) and follow their model. A generative PFP based on premade assets is auctioned off once a day. This NFT acts as the governance token that votes to direct the flow and purpose of the treasury and collective capital. Owners have veto power with a unanimous vote in early stages; later dissolves as further structure is strengthened 
+
+Using a Nouns DAO Structure with expanded features that focus on leveraging our artistic community and on creating a proper system to support NFTs as a new asset class. 
+
 ## Scope
 What is the scope of the project? What will it require?
-- This is TBD
+- Smart contract development for the NFTs
+- NFTs for every members of the DAO
+- Art for the NFTs
+- Super simple site that allows for DAO members 
+
+## Not in the scope of this proposal
+- If we can do these, great
+- Daily Auctions, that can 
+- The idea here is to split up the tasks. Get the NFTs in DAO members hands first, and then daily auctions
 
 ### Art 
-TBD
+- TBD
 
-### Design Reqs
-TBD
+### NFTs
+- Limit the OG founder Menace NFTs to a 100? (up for debate)
 
-### Engineering Reqs
-Smart Contract work: Most likely, we will fork Compound Governance. 
+### SW Reqs
+- We'd like to reuse as much as possible, and not build
+- Fork this monorepo: https://github.com/nounsDAO/nouns-monorepo
+- contracts for Nouns: https://github.com/nounsDAO/nouns-monorepo/tree/master/packages/nouns-contracts 
 
 ## Owners
 Who will be owners for the project and be responsible for delivering the project
@@ -26,11 +42,14 @@ Who will be owners for the project and be responsible for delivering the project
 
 ## Resources / Compensation
 Do you need funding? Do the contributors of the project need to be paid in NFTs or FTM? 
-- We will need to compensation is TBD
+- Compensation for artists
+- Compensation for devs
 
 ## Timeline
-How long will it this roughly take?
-- 
+How long will this roughly take?
+- Art: X weeks
+- Contracts for deploying: X weeks
+- Frontend setup: X weeks
 
 ### Additional context
 Add any other context or screenshots about the feature request here.
