@@ -18,7 +18,8 @@ What is the scope of the project? What will it require?
 - Smart contract development for the NFTs
 - NFTs for every members of the DAO
 - Art for the NFTs
-- Super simple site that allows for DAO members 
+- Super simple site that allows for DAO members to mint their DAO NFTs
+- Frontend deployment of this page etc.
 
 ### Not in the scope of this proposal
 - If we can do these, great
@@ -30,11 +31,13 @@ What is the scope of the project? What will it require?
 
 ### NFTs
 - Limit the OG founder Menace NFTs to a 100? (up for debate)
+- Royalties, 5%? all royalties go to DAO treasury wallet
 
 ### SW Reqs
-- We'd like to reuse as much as possible, and not build
+- We'd like to reuse as much as possible, and not build (if we can)
 - Fork this monorepo: https://github.com/nounsDAO/nouns-monorepo
 - contracts for Nouns: https://github.com/nounsDAO/nouns-monorepo/tree/master/packages/nouns-contracts 
+- deploy contract etc.
 
 ## Owners
 Who will be owners for the project and be responsible for delivering the project
@@ -49,7 +52,7 @@ Do you need funding? Do the contributors of the project need to be paid in NFTs 
 How long will this roughly take?
 - Art: X weeks
 - Contracts for deploying: X weeks
-- Frontend setup: X weeks
+- Frontend minimal minting site: X weeks
 
 ### Additional context
 Add any other context or screenshots about the feature request here.
