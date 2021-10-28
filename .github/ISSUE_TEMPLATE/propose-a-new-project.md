@@ -7,8 +7,6 @@ assignees: ''
 
 ---
 
-# Potential Menace Improvement Proposal (MIP-X)
-
 ## tl;dr
 What Is your idea for a new project that the DAO can do?
 
