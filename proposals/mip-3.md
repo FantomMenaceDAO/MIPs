@@ -32,7 +32,9 @@ What is the scope of the project? What will it require?
 - TBD
 
 ### NFTs
-- Limit the OG founder Menace NFTs to a 100? (up for debate)
+- You cannot mint more than 1 (we can program this in the contract)
+- All addresses will be whitelisted
+- No one outside the DAO can mint
 - Royalties, 5%? all royalties go to DAO treasury wallet
 
 ### SW Reqs
@@ -40,6 +42,10 @@ What is the scope of the project? What will it require?
 - Fork this monorepo: https://github.com/nounsDAO/nouns-monorepo
 - contracts for Nouns: https://github.com/nounsDAO/nouns-monorepo/tree/master/packages/nouns-contracts 
 - deploy contract etc.
+
+### Questions
+- Do we do this as ERC-1155 to open up ourselves to fractionalizing it in the future?
+- Limit the OG founder Menace NFTs to a 150? (up for debate, though I think we should) the goal is to auction off at one a day
 
 ## Owners
 Who will be owners for the project and be responsible for delivering the project
