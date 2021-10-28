@@ -3,9 +3,9 @@ Give ourselves NFTs as governance tokens to vote (setup NFT DAO)
 
 ## Motivation
 We should this because...
-- We need to vote on things with an NFT. 
-- We need to automate the onboarding process further so we can onboard more folks 
-- so we can vote w/o having to verify whether they belong to the DAO or not
+- We need to vote on things with in the DAO (we need a governance token)
+- We need to automate the onboarding process further so we can onboard more folks (eventually do daily auctions)
+- NFTs are cool way to do governance tokens, we can have cool art too
 
 ## Context
 
