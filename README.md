@@ -27,8 +27,8 @@ There is a 500 USDC bounty for proposing a MIP that reaches the Implemented phas
 
 ## MIP Statuses
 - `Draft` - The initial state of a new MIP before the Council and core contributors have assessed it.
-- `Proposed` - a MIP that has been proposed for feasibility by core contributors and is awaiting a vote
+- `Proposed` - a MIP that has been proposed for feasibility by core contributors and is awaiting a vote pending priority of proposals
 - `InVoting` - a MIP that is in the voting period
 - `Approved` - a MIP that has successfully reached a vote in favor
 - `Rejected` - a MIP that has failed to reach a vote in favour
-- `Implemented` - a MIP that has been executed
+- `Executed` - a MIP that has been executed
