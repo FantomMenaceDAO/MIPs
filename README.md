@@ -26,10 +26,10 @@ Once the MIP has been implemented by either the protocol DAO or the MIP author a
 There is a 500 USDC bounty for proposing a MIP that reaches the Implemented phase.
 
 ## MIP Statuses
-Draft - The initial state of a new MIP before the Council and core contributors have assessed it.
-Feasibility - a MIP that is being assessed for feasibility by assigned / core contributors / owners
-PendingVote - a MIP that is awaiting a vote
-InVoting - a MIP that is voting 
-Approved - a MIP that has successfully reached a vote in favour.
-Rejected - a MIP that has failed to reach a vote in favour.
-Implemented - a MIP that has been released executed
+- `Draft` - The initial state of a new MIP before the Council and core contributors have assessed it.
+- `CheckFeasibility` - a MIP that is being assessed for feasibility by assigned / core contributors / owners
+- `PendingVote` - a MIP that is awaiting a vote
+- `InVoting` - a MIP that is voting 
+- `Approved` - a MIP that has successfully reached a vote in favour.
+- `Rejected` - a MIP that has failed to reach a vote in favour.
+- `Implemented` - a MIP that has been released executed
