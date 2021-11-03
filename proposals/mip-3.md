@@ -29,7 +29,7 @@ What is the scope of the project? What will it require?
 - The idea here is to split up the tasks. Get the NFTs in DAO members hands first, and then daily auctions
 
 ### Art 
-- TBD
+- @NaturalVoids is going to work on the art
 
 ### NFTs
 - You cannot mint more than 1 (we can program this in the contract)
@@ -54,14 +54,12 @@ Who will be owners for the project and be responsible for delivering the project
 
 ## Resources / Compensation
 Do you need funding? Do the contributors of the project need to be paid in NFTs or FTM? 
-- Compensation for artists
-- Compensation for devs
+- Compensation for NaturalVoids (for the Art)
+- Compensation for July (for the dev work)
 
 ## Timeline
 How long will this roughly take?
-- Art: X weeks
-- Contracts for deploying: X weeks
-- Frontend minimal minting site: X weeks
+- TBD
 
 ### Additional context
 Add any other context or screenshots about the feature request here.
